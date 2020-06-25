@@ -96,7 +96,7 @@ primaryskills:
         level: 98%
 
       - name: Docker & CICD Tools
-        level: 95 %
+        level: 95%
 
       - name: AWS Linux
         level: 85%
