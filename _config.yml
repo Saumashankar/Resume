@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Resume
-baseurl: '/resume' #change it according to your repository name
+baseurl: '/Resume' #change it according to your repository name
 description: Resume
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
