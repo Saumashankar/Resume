@@ -1,0 +1,126 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Sauma Bala
+    tagline: DevOps Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: saumashankar07@gmail.com
+    phone: +91-7978306815
+    linkedin: sauma-bala-601478101
+    github: Saumashankar
+    stack-overflow: 8278059/saumashankar-bala
+   
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: Hindi
+        level: Professional
+
+      - idiom: Bengali
+        level: Professional
+        
+      - idiom: Oriya
+        level: Professional
+
+    interests:
+      - item: Photography
+        link: https://youpic.com/photographer/saumashankar07/
+
+      - item: Adventure travel
+        link: https://wanderings5.blogspot.com/
+
+
+career-profile:
+    title: About ME
+    summary: |
+      Skilled DevOps Engineer with hands-on experience supporting, automating, and optimizing mission critical deployments, leveraging configuration management, CI/CD, and DevOps processes.Seeking to leverage my skills with passion and creativity toward organizational growth.
+      
+education:
+    - degree: Bachelor of Technology 
+      university: Orissa Engineering College
+      time: 2013 - 2017
+      
+experiences:
+    - role: DevOps
+      time: NOV,2017 - Present
+      company: Tata Consultancy Services, Kolkata
+      details: |
+       - Worked in release management, building & deploying software , process creation, automation , control & environment management activities in JAVA Web Based Application
+       - Monitored and tested application performance to identify potential bottlenecks, develop solutions, and collaborate with developers on solution implementation
+       - Creation and administration of AWS resources and diﬀerent services (Launching Instances and Amazon machine images, Creating elastic load balancers, Creating security groups for instances)
+       - Implementation and maintenance of Amazon services like S3, IAM, Cloud watch, beanstalk
+       - Administrating and maintaining the Amazon ec2-instances with RDS Database, tomcat Application Server, Apache Web Server.
+       - Responsible for carrying out time to time Maintenance activity of Production Environment with minimum downtime used.
+       - 24x7 production application, database support and monitoring to ensure a proactive problem recognition and resolution of critical issues.
+       - Worked closely with customers, internal staﬀ and other stakeholders to determine planning, implementation and integration of system- oriented projects.
+       
+
+
+    - role: Developer
+      time: July,2017 - Sep,2017
+      company: Tata Consultancy Service, Trivandrum
+      details: |
+          - Design and Developed a Web Application using Monolith architecture as per business requirement using Java Servlet and JSP.
+          - Developed Web Pages responsive and User interactive using JavaScript and HTML and CSS.
+          - Fixed issue related to the application performance with replacement of complex algorithm with more efficient algorithm.
+          - Junit Testing of each services with different scenario.
+          - Peers review of code for better and efficient code.
+          
+
+  
+projects:
+    title: Projects
+    assignments:
+      - title: DevOps-Project
+        link: "#hook"
+        tagline: " DevOps CI/CD Pipeline using VCS, jenkin, Maven, Ansible, Docker & Kubernates"
+
+primaryskills:
+    title: Primary Skills &amp; Proficiency
+
+    toolset:
+      - name: Unix
+        level: 98%
+
+      - name: SQL Database 
+        level: 98%
+
+      - name: Docker & CICD Tools
+        level: 95 %
+
+      - name: AWS Linux
+        level: 85%
+
+      - name: Autosys 
+        level: 85%
+
+      - name: HTML5 & CSS3
+        level: 70%
+        
+        
+secondaryskills:
+    title: Secondary Skills &amp; Proficiency
+
+    toolset:
+      - name: Basic kubernetes 
+        level: 70%
+
+      - name: python
+        level: 60%
+
+      - name: JAVA
+        level: 60%
+
+
+     
+
