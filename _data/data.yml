@@ -68,11 +68,10 @@ experiences:
 
     - role: Developer
       time: July,2017 - Sep,2017
-      company: Tata Consultancy Service, Trivandrum
+      company: Tata Consultancy Service, Ahmedabad
       details: |
           - Design and Developed a Web Application using Monolith architecture as per business requirement using Java Servlet and JSP.
           - Developed Web Pages responsive and User interactive using JavaScript and HTML and CSS.
-          - Fixed issue related to the application performance with replacement of complex algorithm with more efficient algorithm.
           - Junit Testing of each services with different scenario.
           - Peers review of code for better and efficient code.
           
